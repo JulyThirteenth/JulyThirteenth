@@ -12,7 +12,11 @@ My name is **Shaw Wong**.<br>
 
 * **Hobby:**<br>
   * Climbing mountains.<br>
-  <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="泰山" align=center><br>
+     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="泰山" align=center>
+     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
+     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
+     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
+     <br>
   * Reading books.<br>
   * Running.<br>
   * Coding.<br>
