@@ -9,4 +9,7 @@ My name is **Shaw Wong**.<br>
 * **Resarch:**<br>
   * Parking of autonomous car in the unstructed scenario.<br>
   * Trajectory planning of robot.<br>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2799450a2b9aca3e85346918e6d227d033eb4482
