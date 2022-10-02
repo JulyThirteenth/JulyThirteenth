@@ -27,5 +27,8 @@ My name is **Shaw Wong**.<br>
     </div>
     <br>
   * Reading books.<br>
+     If you like science fictions, we are friends.
   * Running.<br>
+     Strong body makes me live longer.
   * Coding.<br>
+     Just having fun with C\C++ & Python.
