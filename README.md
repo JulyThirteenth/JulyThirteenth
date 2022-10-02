@@ -12,6 +12,7 @@ My name is **Shaw Wong**.<br>
 
 * **Hobby:**<br>
   * Climbing mountains.<br>
+  ![泰山]("/images/泰山.jpg")
   * Reading books.<br>
   * Running.<br>
   * Coding.<br>
