@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is shaw wong, currently learning for a master`s degree in IAIR XJTU.
+My name is Shaw Wong, currently studying for a master`s degree in IAIR, XJTU.
+I recieved my bachelor`s degree in school of Control Science and Engineer, SDU.
+Now, I am interested in the area of Autonomous car`s Planning Control.
 
