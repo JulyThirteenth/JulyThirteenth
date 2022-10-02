@@ -12,11 +12,20 @@ My name is **Shaw Wong**.<br>
 
 * **Hobby:**<br>
   * Climbing mountains.<br>
-     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="泰山" align=center>
-     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
-     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
-     <img src="https://github.com/JulyThirteenth/JulyThirteenth/blob/main/images/%E7%99%BB%E4%B8%8A%E6%B3%B0%E5%B1%B1.jpg" width="150" height="200" alt="登上泰山" align=center>
-     <br>
+    <div align=center>
+     <img src="images\小天下.jpg" width="150" height="200" alt="小天下" >
+     <img src="images\登上泰山.jpg" width="150" height="200" alt="登上泰山" >
+     <img src="images\泰山.jpg" width="150" height="200" alt="泰山" >
+     <img src="images\泰山日出.jpg" width="150" height="200" alt="泰山日出" >
+    </div>
+    <br>
+    <div align=center>
+     <img src="images\登上黄山.jpg" width="200" height="150" alt="登上泰山">
+     <img src="images\黄山.jpg" width="150" height="200" alt="登上泰山" >
+     <img src="images\仙桃石.jpg" width="150" height="200" alt="仙桃石" >
+     <img src="images\迎客松.jpg" width="200" height="200" alt="迎客松" >
+    </div>
+    <br>
   * Reading books.<br>
   * Running.<br>
   * Coding.<br>
