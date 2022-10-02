@@ -9,3 +9,9 @@ My name is **Shaw Wong**.<br>
 * **Resarch:**<br>
   * Parking of autonomous car in the unstructed scenario.<br>
   * Trajectory planning of robot.<br>
+
+* **Hobby:**<br>
+  * Climbing mountains.<br>
+  * Reading books.<br>
+  * Running.<br>
+  * Coding.<br>
