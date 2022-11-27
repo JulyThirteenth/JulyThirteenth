@@ -7,7 +7,7 @@ My name is **Shaw Wong**.<br>
   * Currently studying for master\`s degree in **institute of Artificial Intelligence and Robotics, XJTU**(2022.9~).<br>
 
 * **Resarch:**<br>
-  * Parking of autonomous car in the unstructured scenario.<br>
+  * Decision and planning of autonomous vehicles<br>
   * Motion planning of robot.<br>
 * **Blog:**<br>
   * [In CSDN](https://blog.csdn.net/JulyThirteenth?spm=1000.2115.3001.5343)
