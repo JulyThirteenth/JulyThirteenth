@@ -3,8 +3,8 @@
 My name is **Shaw Wong**.<br>
 
 * **Biology:**<br>
-  * Rceived bachelor\`s degree in **School of Control Science and Engineer, SDU**.(2018.9~2022.6)<br>
-  * Currently studying for master\`s degree in **Institute of Artificial Intelligence and Robotics, XJTU**(2022.9~).<br>
+  * Rceived bachelor\'s degree in **School of Control Science and Engineer, SDU**.(2018.9~2022.6)<br>
+  * Currently studying for master\'s degree in **Institute of Artificial Intelligence and Robotics, XJTU**(2022.9~).<br>
 
 * **Resarch:**<br>
   * Planning and control of autonomous vehicles.<br>
