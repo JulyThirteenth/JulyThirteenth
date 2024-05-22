@@ -12,5 +12,5 @@ My name is **Shaw Wong**.<br>
 * **Blog:**<br>
   * [In CSDN](https://blog.csdn.net/JulyThirteenth?spm=1000.2115.3001.5343)
  
-* I'm currently interning in **Baidu's Autonomous Driving Technology group** and looking for **a PhD Program**. 
+* I'm currently interning in **Baidu's Autonomous Driving Pnc Group** and looking for **a PhD Program**. 
 
