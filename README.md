@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Shaw Wong**.<br>
+My name is **Shaw Wang**.<br>
 
 * **Biology:**<br>
   * Rceived bachelor\'s degree in **School of Control Science and Engineer, SDU**.(2018.9~2022.6)<br>
