@@ -12,5 +12,6 @@ My name is **Shaw Wang**.<br>
 * **Blog:**<br>
   * [In CSDN](https://blog.csdn.net/JulyThirteenth?spm=1000.2115.3001.5343)
  
-* I'm currently interning in **Baidu's Autonomous Driving Pnc Group**. 
+* I'm currently interning in **Baidu's Autonomous Driving Pnc Group**.
+* I'm looking for a PHD Postion, I will be grateful if you provide the opportunity via email. 
 
