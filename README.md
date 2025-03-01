@@ -14,5 +14,5 @@ My name is **Shaw Wang**.<br>
   * [In Zhihu](https://www.zhihu.com/people/27-55-82-7)
  
 * ~~I'm currently interning in **Baidu's Autonomous Driving Pnc Group**.~~
-* I'm looking for a PHD Postion, I will be grateful if you provide the opportunity via email. 
+* ~~I'm looking for a PHD Postion, I will be grateful if you provide the opportunity via email.~~ 
 
