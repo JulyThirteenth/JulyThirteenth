@@ -3,8 +3,8 @@
 My name is **Shaw Wang**.<br>
 
 * **Biology:**<br>
-  * Received bachelor\'s degree in **School of Control Science and Engineer, SDU**.(2018.9~2022.6)<br>
-  * Received master\'s degree in **Institute of Artificial Intelligence and Robotics, XJTU**(2022.9~).<br>
+  * Received bachelor\'s degree in **School of Control Science and Engineer, SDU**.(2018.09~2022.06)<br>
+  * Received master\'s degree in **Institute of Artificial Intelligence and Robotics, XJTU**(2022.09~2025.06).<br>
 
 * **Resarch:**<br>
   * Planning and control of autonomous vehicles.<br>
