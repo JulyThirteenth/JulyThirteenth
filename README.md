@@ -15,5 +15,6 @@ My name is **Shaw Wang**.<br>
   * [In Zhihu](https://www.zhihu.com/people/27-55-82-7)
  
 * ~~I'm currently interning in **Baidu's Autonomous Driving Pnc Group**.~~
+* I have accepted the PhD offer from NUS and will begin my phd life in Singapore.
 
 
