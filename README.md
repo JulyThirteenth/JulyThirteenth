@@ -8,7 +8,7 @@ My name is **Shaw Wang**.<br>
   * I accepted the PhD offer from NUS ECE and will begin my PhD life in Singapore.
 
 * Internship:<br>
- * I once interned in **Baidu's Autonomous Driving Pnc Group** for **Robo Express**.
+  * I once interned in **Baidu's Autonomous Driving Pnc Group** for **Robo Express**.
 
 * **Resarch:**<br>
   * Planning and control(PNC) of autonomous vehicles.<br>
